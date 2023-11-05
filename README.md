@@ -9,6 +9,6 @@ The database contains comprehensive information pertaining to patients, clinics,
 ### Introduction
 Our business model closely resembles that of Ticketmaster, a comprehensive event management and ticketing solution platform. The database we use exclusively comprises mock data, featuring details about events, clients, venues, and more, strictly for educational purposes within a school context. The primary objective of this project is to demonstrate various SQL queries that can provide the business with enhanced insights and hopefully facilitate improvements in its operations.
 ### Team members 
-@Jaya Chaturvedi @Arnav Gupta @Nandani Yadav @Rebecca Zhang
+Jaya Chaturvedi, Arnav Gupta, Nandani Yadav, Rebecca Zhang
 
 
